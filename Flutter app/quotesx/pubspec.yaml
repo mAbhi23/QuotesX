@@ -1,0 +1,31 @@
+name: quotesx
+description: A Quotes App made in flutter using Deno as backend.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  velocity_x: ^0.4.0
+  http: ^0.12.1
+  share: ^0.6.4+2
+
+
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
